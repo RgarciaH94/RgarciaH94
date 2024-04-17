@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RgarciaH94
-- 👀 I’m interested in #swift #entrepreneurship 
+- 👀 I’m interested in #swift
 - 🌱 I’m currently learning #android
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/rgarciah/) 
 
